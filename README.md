@@ -2,4 +2,4 @@
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](https://github.com/andylcastillop/andylcastillop/blob/master/src/preview/preview.png)](https://andylcastillop.github.io/andylcastillop/)
